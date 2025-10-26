@@ -1,0 +1,15 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "action": "deny",
+    "direction": "any",
+    "protocol": "tcp",
+    "src_ip": null,
+    "dst_ip": null,
+    "src_port": null,
+    "dst_port": 23,
+    "description": "Block Telnet",
+    "enabled": true
+  }
+]
+
